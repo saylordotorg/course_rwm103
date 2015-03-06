@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM103: Geometry"
+course_description: "In this course, you will study the relationships between lines and angles. You will learn to calculate how much space an object covers, determine how much space is inside of a three-dimensional object, and other relationships between shapes, objects, and the mathematics that govern them."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Right Triangle Trigonometry** <span id="7"></span> 
 *In this unit, you will learn the basics of trigonometry.  Trigonometry
 is used for several different measuring techniques.  You can determine

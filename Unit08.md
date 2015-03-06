@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM103: Geometry"
+course_description: "In this course, you will study the relationships between lines and angles. You will learn to calculate how much space an object covers, determine how much space is inside of a three-dimensional object, and other relationships between shapes, objects, and the mathematics that govern them."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Circles** <span id="8"></span> 
 *Circles are everywhere you look, for example, tires, pools, fans, and
 watches.  You can probably think of several more items that are

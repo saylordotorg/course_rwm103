@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM103: Geometry"
+course_description: "In this course, you will study the relationships between lines and angles. You will learn to calculate how much space an object covers, determine how much space is inside of a three-dimensional object, and other relationships between shapes, objects, and the mathematics that govern them."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Perimeter and Area** <span id="9"></span> 
 *Two of the most common applications of Geometry are area and
 perimeter.  Owning a home gives you plenty of opportunities to use these

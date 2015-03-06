@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM103: Geometry"
+course_description: "In this course, you will study the relationships between lines and angles. You will learn to calculate how much space an object covers, determine how much space is inside of a three-dimensional object, and other relationships between shapes, objects, and the mathematics that govern them."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Polygons and Quadrilaterals** <span id="5"></span> 
 *Polygons are everywhere around us.  If you see a shape that has no
 curves, then it is a polygon.  As a child, you probably learned the

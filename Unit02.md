@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM103: Geometry"
+course_description: "In this course, you will study the relationships between lines and angles. You will learn to calculate how much space an object covers, determine how much space is inside of a three-dimensional object, and other relationships between shapes, objects, and the mathematics that govern them."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Parallel and Perpendicular Lines** <span id="2"></span> 
 *Simply put, parallel lines are lines in a plane that do not intersect,
 while perpendicular lines are lines that intersect at a right angle

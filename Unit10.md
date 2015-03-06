@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM103: Geometry"
+course_description: "In this course, you will study the relationships between lines and angles. You will learn to calculate how much space an object covers, determine how much space is inside of a three-dimensional object, and other relationships between shapes, objects, and the mathematics that govern them."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Surface Area and Volume** <span id="10"></span> 
 *Finding the amount of space inside of an object is important, and
 something you will do in your everyday life.  If you try to fill a box

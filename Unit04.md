@@ -1,3 +1,10 @@
+---
+layout: default
+title: "RWM103: Geometry"
+course_description: "In this course, you will study the relationships between lines and angles. You will learn to calculate how much space an object covers, determine how much space is inside of a three-dimensional object, and other relationships between shapes, objects, and the mathematics that govern them."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Triangle Relationships** <span id="4"></span> 
 *In this unit, you will learn more about triangles and their various
 parts.  Triangles, believe it or not, are used more often in life than
